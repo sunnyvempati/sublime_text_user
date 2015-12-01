@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Babel",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"Devastate",
+		"ES6-Toolkit",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"GitSavvy",
+		"JavaScriptNext - ES6 Syntax",
+		"JSHint",
+		"JSX",
+		"Material Theme",
+		"Package Control",
+		"ReactJS",
+		"ReactJS Snippets",
+		"RuboCop",
+		"RubyTest",
+		"Sass",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SublimeLinter-jsxhint",
+		"SublimeLinter-rubocop",
+		"Theme - Afterglow",
+		"Theme - Asphalt",
+		"Theme - Brogrammer",
+		"Theme - Freesia",
+		"Theme - Glacier",
+		"Theme - Spacegray",
+		"Theme - Tech49"
+	]
+}
